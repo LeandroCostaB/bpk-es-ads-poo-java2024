@@ -1,6 +1,6 @@
 package exercicio07;
 
-class AlunoTeste {
+class TesteAluno {
     public static void main(String[] args) {
 
         Aluno aluno = new Aluno("JavaMan", "12345", "JavaParaLoucos");

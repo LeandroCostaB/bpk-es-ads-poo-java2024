@@ -1,10 +1,10 @@
-package exercicio05;
+    package exercicio05;
 
-public class TesteCachorro{
+    public class TesteCachorro{
 
-    public static void main(String[] args) {
-        Cachorro cachorro = new Cachorro("Cleberson", "Goldem", 2);
+        public static void main(String[] args) {
+            Cachorro cachorro = new Cachorro("Cleberson", "Goldem", 2);
 
-        System.out.println(cachorro);
+            System.out.println(cachorro);
+        }
     }
-}
